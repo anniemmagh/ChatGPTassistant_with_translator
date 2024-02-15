@@ -5,7 +5,7 @@ from openai import OpenAI
 
 client = OpenAI(
     # This is the default and can be omitted
-    api_key="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",
+    api_key="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",
 )
 
 
